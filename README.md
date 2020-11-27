@@ -11,7 +11,7 @@
 		
 ##Results:
 
-The user may input search criteria in one or more [tables] (https://github.com/Yunaka1269/UFOs/blob/main/ufo.PNG) to filter UFO sightings data. After entering keyword (in all lower case), press enter to get the data filtered. Please note that this page doesn't allow user to enter multiple search boxes at once so the user is required to press enter after each input. This applies for clearing the input box too. The user is required to delete the keyword in box and press enter to remove the filter.
+The user may input search criteria in one or more [tables](https://github.com/Yunaka1269/UFOs/blob/main/ufo.PNG) to filter UFO sightings data. After entering keyword (in all lower case), press enter to get the data filtered. Please note that this page doesn't allow user to enter multiple search boxes at once so the user is required to press enter after each input. This applies for clearing the input box too. The user is required to delete the keyword in box and press enter to remove the filter.
 
 ##Summary
 
