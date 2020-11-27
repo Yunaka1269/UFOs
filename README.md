@@ -17,7 +17,7 @@ The user may input search criteria in one or more ***[tables](https://github.com
 
 - Drawback:
 
-The drawback of this webpage is that the user must write the exact match of spelling, upper/lower case, and date format to successfully return the filtered data. Otherwise, the webpage will show the blank page without displaying any error message.
+The drawback of this webpage is that the user must write the exact match of spelling, upper/lower case, and date format to successfully return the filtered data. Otherwise, the webpage will show the ***[blank page](https://github.com/Yunaka1269/UFOs/blob/main/error.PNG)*** without displaying any error message.
 
 - Recommendations:
 
